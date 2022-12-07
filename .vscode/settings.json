@@ -39,6 +39,9 @@
         "vector": "cpp",
         "algorithm": "cpp",
         "list": "cpp",
-        "xhash": "cpp"
+        "xhash": "cpp",
+        "fstream": "cpp",
+        "random": "cpp",
+        "unordered_map": "cpp"
     }
 }
